@@ -1,0 +1,707 @@
+{
+    "kind": "search#companies",
+    "page_number": 1,
+    "start_index": 0,
+    "items_per_page": 20,
+    "items": [
+        {
+            "kind": "searchresults#company",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "00630681 - Incorporated on 18 June 1959",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    10,
+                    18
+                ]
+            },
+            "date_of_creation": "1959-06-18",
+            "address": {
+                "postal_code": "NW1 3AX",
+                "address_line_1": "Euston Road",
+                "locality": "London",
+                "premises": "350"
+            },
+            "company_status": "active",
+            "links": {
+                "self": "/company/00630681"
+            },
+            "company_type": "ltd",
+            "title": "DS SMITH PACKAGING LIMITED",
+            "snippet": "",
+            "company_number": "00630681",
+            "address_snippet": "350 Euston Road, London, NW1 3AX"
+        },
+        {
+            "date_of_cessation": "2011-10-18",
+            "links": {
+                "self": "/company/01598565"
+            },
+            "title": "DS SMITH DORMANT FOUR LIMITED",
+            "company_type": "ltd",
+            "snippet": "DS SMITH PACKAGING · DS SMITH CORRUGATED ",
+            "address_snippet": "Beech House Whitebrook Park, 68 Lower Cookham Road, Maidenhead, Berkshire, SL6 8XY",
+            "company_number": "01598565",
+            "kind": "searchresults#company",
+            "matches": {
+                "snippet": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    10,
+                    18,
+                    22,
+                    23,
+                    25,
+                    29
+                ],
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8
+                ]
+            },
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "description": "01598565 - Dissolved on 18 October 2011",
+            "address": {
+                "postal_code": "SL6 8XY",
+                "address_line_1": "68 Lower Cookham Road",
+                "locality": "Maidenhead",
+                "region": "Berkshire",
+                "premises": "Beech House Whitebrook Park"
+            },
+            "date_of_creation": "1981-11-19",
+            "company_status": "dissolved"
+        },
+        {
+            "date_of_creation": "1897-08-30",
+            "address": {
+                "locality": "London",
+                "address_line_1": "Euston Road",
+                "postal_code": "NW1 3AX",
+                "premises": "350"
+            },
+            "company_status": "active",
+            "kind": "searchresults#company",
+            "matches": {
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    21,
+                    29
+                ],
+                "snippet": [
+                    5,
+                    13,
+                    22,
+                    30
+                ]
+            },
+            "description": "00053913 - Incorporated on 30 August 1897",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "snippet": "SCA PACKAGING · REED PACKAGING ",
+            "address_snippet": "350 Euston Road, London, NW1 3AX",
+            "company_number": "00053913",
+            "links": {
+                "self": "/company/00053913"
+            },
+            "title": "DS SMITH CORRUGATED PACKAGING LIMITED",
+            "company_type": "ltd"
+        },
+        {
+            "company_status": "dissolved",
+            "date_of_creation": "2020-01-24",
+            "address": {
+                "country": "England",
+                "postal_code": "LE2 5LG",
+                "address_line_1": "Kenilworth Drive",
+                "locality": "Leicester",
+                "address_line_2": "Oadby",
+                "premises": "56c"
+            },
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "description": "12424279 - Dissolved on 22 March 2022",
+            "matches": {
+                "title": [
+                    1,
+                    3,
+                    5,
+                    13
+                ],
+                "snippet": []
+            },
+            "kind": "searchresults#company",
+            "company_number": "12424279",
+            "address_snippet": "56c Kenilworth Drive, Oadby, Leicester, England, LE2 5LG",
+            "snippet": "",
+            "company_type": "ltd",
+            "title": "DSJ PACKAGING LIMITED",
+            "date_of_cessation": "2022-03-22",
+            "links": {
+                "self": "/company/12424279"
+            }
+        },
+        {
+            "date_of_creation": "2012-08-16",
+            "address": {
+                "postal_code": "SL3 7EW",
+                "country": "England",
+                "address_line_1":"St Mary\'s Road",
+                "locality": "Langley",
+                "region": "Berkshire",
+                "premises": "Unit H1-B Deseronto Ind Estates"
+            },
+            "company_status": "active",
+            "kind": "searchresults#company",
+            "description": "08182433 - Incorporated on 16 August 2012",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "title": [
+                    1,
+                    2,
+                    4,
+                    12
+                ],
+                "snippet": []
+            },
+            "snippet": "",
+            "company_number": "08182433",
+            "address_snippet":"Unit H1-B Deseronto Ind Estates, St Mary\'s Road, Langley, Berkshire, England, SL3 7EW",
+            "links": {
+                "self": "/company/08182433"
+            },
+            "company_type": "ltd",
+            "title": "DS PACKAGING LTD"
+        },
+        {
+            "kind": "searchresults#company",
+            "description": "12230203 - Incorporated on 26 September 2019",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "snippet": [],
+                "title": [
+                    3,
+                    7,
+                    9,
+                    17
+                ]
+            },
+            "date_of_creation": "2019-09-26",
+            "address": {
+                "premises": "Stanier Road",
+                "locality": "Worcester",
+                "country": "United Kingdom",
+                "postal_code": "WR4 9FE",
+                "address_line_1": "Warndon"
+            },
+            "company_status": "active",
+            "links": {
+                "self": "/company/12230203"
+            },
+            "company_type": "ltd",
+            "title": "B SMITH PACKAGING GROUP (WORCESTER) LTD",
+            "snippet": "",
+            "company_number": "12230203",
+            "address_snippet": "Stanier Road, Warndon, Worcester, United Kingdom, WR4 9FE"
+        },
+        {
+            "links": {
+                "self": "/company/11180898"
+            },
+            "company_type": "ltd",
+            "title": "B. SMITH PACKAGING HOLDINGS (WORCESTER) LIMITED",
+            "snippet": "",
+            "company_number": "11180898",
+            "address_snippet": "Stanier Road Shires Business Park, Warndon, Worcester, United Kingdom, WR4 9FE",
+            "kind": "searchresults#company",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "11180898 - Incorporated on 31 January 2018",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    4,
+                    8,
+                    10,
+                    18
+                ]
+            },
+            "address": {
+                "locality": "Worcester",
+                "address_line_1": "Warndon",
+                "country": "United Kingdom",
+                "postal_code": "WR4 9FE",
+                "premises": "Stanier Road Shires Business Park"
+            },
+            "date_of_creation": "2018-01-31",
+            "company_status": "active"
+        },
+        {
+            "address_snippet": "Stanier Road, Warndon, Worcester, Worcestershire, WR4 9FE",
+            "company_number": "03832291",
+            "snippet": "",
+            "title": "B SMITH PACKAGING (MANCHESTER) LIMITED",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/03832291"
+            },
+            "company_status": "active",
+            "date_of_creation": "1999-08-26",
+            "address": {
+                "postal_code": "WR4 9FE",
+                "address_line_1": "Warndon",
+                "locality": "Worcester",
+                "region": "Worcestershire",
+                "premises": "Stanier Road"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    3,
+                    7,
+                    9,
+                    17
+                ]
+            },
+            "description": "03832291 - Incorporated on 26 August 1999",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "kind": "searchresults#company"
+        },
+        {
+            "company_status": "active",
+            "date_of_creation": "1985-08-14",
+            "address": {
+                "region": "Worcester",
+                "premises": "Stanier Road",
+                "locality": "Warndon",
+                "postal_code": "WR4 9FE",
+                "address_line_1": "Shires Business Park"
+            },
+            "matches": {
+                "title": [
+                    4,
+                    8,
+                    10,
+                    18
+                ],
+                "snippet": []
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "01938928 - Incorporated on 14 August 1985",
+            "kind": "searchresults#company",
+            "address_snippet": "Stanier Road, Shires Business Park, Warndon, Worcester, WR4 9FE",
+            "company_number": "01938928",
+            "snippet": "",
+            "title": "B. SMITH PACKAGING (WORCESTER) LIMITED",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/01938928"
+            }
+        },
+        {
+            "snippet": "",
+            "company_number": "SC193760",
+            "address_snippet": "Rosslyn Commerce Park, Mitchelston Industrial Estate, Kirkcaldy, Fife, KY1 3NA",
+            "links": {
+                "self": "/company/SC193760"
+            },
+            "company_type": "ltd",
+            "title": "SMITH ANDERSON PACKAGING LIMITED",
+            "address": {
+                "postal_code": "KY1 3NA",
+                "address_line_1": "Mitchelston Industrial Estate",
+                "locality": "Kirkcaldy",
+                "region": "Fife",
+                "premises": "Rosslyn Commerce Park"
+            },
+            "date_of_creation": "1999-02-24",
+            "company_status": "active",
+            "kind": "searchresults#company",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "SC193760 - Incorporated on 24 February 1999",
+            "matches": {
+                "title": [
+                    1,
+                    5,
+                    16,
+                    24
+                ],
+                "snippet": []
+            }
+        },
+        {
+            "kind": "searchresults#company",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "SC280922 - Incorporated on  2 March 2005",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    5,
+                    7,
+                    15
+                ]
+            },
+            "date_of_creation": "2005-03-02",
+            "address": {
+                "postal_code": "FK5 3NS",
+                "address_line_1": "Estate, Larbert",
+                "locality": "Stirlingshire",
+                "premises": "Smith Packaging Products Limited Unit C, Lochlands Industrial"
+            },
+            "company_status": "active",
+            "links": {
+                "self": "/company/SC280922"
+            },
+            "company_type": "ltd",
+            "title": "SMITH PACKAGING PRODUCTS LIMITED",
+            "snippet": "",
+            "company_number": "SC280922",
+            "address_snippet": "Smith Packaging Products Limited Unit C, Lochlands Industrial, Estate, Larbert, Stirlingshire, FK5 3NS"
+        },
+        {
+            "company_status": "active",
+            "date_of_creation": "2008-06-19",
+            "address": {
+                "premises": "Unit C",
+                "region": "Stirlingshire",
+                "locality": "Larbert",
+                "address_line_1": "Lochlands Industrial Estate",
+                "postal_code": "FK5 8NS"
+            },
+            "description": "SC344603 - Incorporated on 19 June 2008",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    5,
+                    7,
+                    15
+                ]
+            },
+            "kind": "searchresults#company",
+            "company_number": "SC344603",
+            "address_snippet": "Unit C, Lochlands Industrial Estate, Larbert, Stirlingshire, FK5 8NS",
+            "snippet": "",
+            "company_type": "ltd",
+            "title": "SMITH PACKAGING SERVICES LIMITED",
+            "links": {
+                "self": "/company/SC344603"
+            }
+        },
+        {
+            "company_number": "SC509720",
+            "address_snippet": "The Corrie, Houston Road, Kilmacolm, Scotland, PA13 4NY",
+            "snippet": "",
+            "company_type": "ltd",
+            "title": "SMITH PACKAGING SOLUTIONS LIMITED",
+            "links": {
+                "self": "/company/SC509720"
+            },
+            "company_status": "active",
+            "address": {
+                "premises": "The Corrie",
+                "locality": "Kilmacolm",
+                "postal_code": "PA13 4NY",
+                "country": "Scotland",
+                "address_line_1": "Houston Road"
+            },
+            "date_of_creation": "2015-06-30",
+            "description": "SC509720 - Incorporated on 30 June 2015",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "title": [
+                    1,
+                    5,
+                    7,
+                    15
+                ],
+                "snippet": []
+            },
+            "kind": "searchresults#company"
+        },
+        {
+            "snippet": "",
+            "address_snippet": "57  Bridge Mill Way, Tovil, Maidstone, England, ME15 6FD",
+            "company_number": "12586811",
+            "date_of_cessation": "2020-10-13",
+            "links": {
+                "self": "/company/12586811"
+            },
+            "title": "WAYNE SMITH DEAL PACKAGING LTD",
+            "company_type": "ltd",
+            "date_of_creation": "2020-05-05",
+            "address": {
+                "premises": "57 ",
+                "address_line_1": "Bridge Mill Way",
+                "postal_code": "ME15 6FD",
+                "country": "England",
+                "address_line_2": "Tovil",
+                "locality": "Maidstone"
+            },
+            "company_status": "dissolved",
+            "kind": "searchresults#company",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    7,
+                    11,
+                    18,
+                    26
+                ]
+            },
+            "description": "12586811 - Dissolved on 13 October 2020",
+            "description_identifier": [
+                "dissolved-on"
+            ]
+        },
+        {
+            "kind": "searchresults#company",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "01377658 - Incorporated on  7 July 1978",
+            "matches": {
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8
+                ],
+                "snippet": [
+                    10,
+                    14,
+                    16,
+                    26,
+                    39,
+                    43
+                ]
+            },
+            "date_of_creation": "1978-07-07",
+            "address": {
+                "premises": "350",
+                "locality": "London",
+                "address_line_1": "Euston Road",
+                "country": "United Kingdom",
+                "postal_code": "NW1 3AX"
+            },
+            "company_status": "active",
+            "links": {
+                "self": "/company/01377658"
+            },
+            "company_type": "plc",
+            "title": "DS SMITH PLC",
+            "snippet": "DAVID S. SMITH (PACKAGING) · DAVID S. SMITH (HOLDINGS) ",
+            "company_number": "01377658",
+            "address_snippet": "350 Euston Road, London, United Kingdom, NW1 3AX"
+        },
+        {
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8
+                ]
+            },
+            "description": "OC428961 - Incorporated on 20 September 2019",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "kind": "searchresults#company",
+            "company_status": "active",
+            "date_of_creation": "2019-09-20",
+            "address": {
+                "address_line_1": "Euston Road",
+                "country": "United Kingdom",
+                "postal_code": "NW1 3AX",
+                "locality": "London",
+                "premises": "350"
+            },
+            "title": "DS SMITH AMERICA (UK) LLP",
+            "company_type": "llp",
+            "links": {
+                "self": "/company/OC428961"
+            },
+            "address_snippet": "350 Euston Road, London, United Kingdom, NW1 3AX",
+            "company_number": "OC428961",
+            "snippet": ""
+        },
+        {
+            "company_number": "08114486",
+            "address_snippet": "350 Euston Road, London, NW1 3AX",
+            "snippet": "",
+            "company_type": "ltd",
+            "title": "DS SMITH BUSINESS SERVICES LIMITED",
+            "links": {
+                "self": "/company/08114486"
+            },
+            "company_status": "active",
+            "address": {
+                "locality": "London",
+                "postal_code": "NW1 3AX",
+                "address_line_1": "Euston Road",
+                "premises": "350"
+            },
+            "date_of_creation": "2012-06-21",
+            "description": "08114486 - Incorporated on 21 June 2012",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8
+                ],
+                "snippet": []
+            },
+            "kind": "searchresults#company"
+        },
+        {
+            "links": {
+                "self": "/company/BR012798"
+            },
+            "title": "DS SMITH B.V.",
+            "company_type": "uk-establishment",
+            "snippet": "",
+            "address_snippet": "350  Euston Road, London, NW1 3AX",
+            "company_number": "BR012798",
+            "kind": "searchresults#company",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8
+                ]
+            },
+            "description": "BR012798 - Opened on  1 October 2009",
+            "description_identifier": [
+                "opened-on"
+            ],
+            "date_of_creation": "2009-10-01",
+            "address": {
+                "premises": "350 ",
+                "address_line_1": "Euston Road",
+                "postal_code": "NW1 3AX",
+                "locality": "London"
+            },
+            "company_status": "open"
+        },
+        {
+            "company_number": "FC026120",
+            "address_snippet": "350 Euston Road, London, United Kingdom, NW1 3AX",
+            "external_registration_number": "93311",
+            "snippet": "DS SMITH (HOLDINGS) B.V. ",
+            "company_type": "oversea-company",
+            "title": "DS SMITH B.V.",
+            "links": {
+                "self": "/company/FC026120"
+            },
+            "company_status": "active",
+            "address": {
+                "premises": "350",
+                "locality": "London",
+                "address_line_1": "Euston Road",
+                "country": "United Kingdom",
+                "postal_code": "NW1 3AX"
+            },
+            "date_of_creation": "2005-06-10",
+            "description_identifier": [
+                "first-uk-establishment-opened-on"
+            ],
+            "description": "FC026120 - First UK establishment opened on 10 June 2005",
+            "matches": {
+                "snippet": [
+                    1,
+                    2,
+                    4,
+                    8
+                ],
+                "title": [
+                    1,
+                    2,
+                    4,
+                    8
+                ]
+            },
+            "kind": "searchresults#company"
+        },
+        {
+            "snippet": "THE DS SMITH FOUNDATION ",
+            "address_snippet": "350 Euston Road, London, NW1 3AX",
+            "company_number": "07654039",
+            "links": {
+                "self": "/company/07654039"
+            },
+            "title": "THE DS SMITH CHARITABLE FOUNDATION",
+            "company_type": "private-limited-guarant-nsc-limited-exemption",
+            "address": {
+                "premises": "350",
+                "locality": "London",
+                "postal_code": "NW1 3AX",
+                "address_line_1": "Euston Road"
+            },
+            "date_of_creation": "2011-06-01",
+            "company_status": "active",
+            "kind": "searchresults#company",
+            "matches": {
+                "title": [
+                    5,
+                    6,
+                    8,
+                    12
+                ],
+                "snippet": [
+                    5,
+                    6,
+                    8,
+                    12
+                ]
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "07654039 - Incorporated on  1 June 2011"
+        }
+    ],
+    "total_results": 27417
+}
