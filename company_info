@@ -1,0 +1,81 @@
+{
+    "accounts": {
+        "overdue": false,
+        "next_due": "2023-01-31",
+        "next_made_up_to": "2022-04-30",
+        "next_accounts": {
+            "period_end_on": "2022-04-30",
+            "overdue": false,
+            "due_on": "2023-01-31",
+            "period_start_on": "2021-05-01"
+        },
+        "accounting_reference_date": {
+            "month": "04",
+            "day": "30"
+        },
+        "last_accounts": {
+            "made_up_to": "2021-04-30",
+            "period_end_on": "2021-04-30",
+            "period_start_on": "2020-05-01",
+            "type": "full"
+        }
+    },
+    "company_number": "00630681",
+    "jurisdiction": "england-wales",
+    "type": "ltd",
+    "undeliverable_registered_office_address": false,
+    "company_name": "DS SMITH PACKAGING LIMITED",
+    "sic_codes": [
+        "17219"
+    ],
+    "has_been_liquidated": false,
+    "date_of_creation": "1959-06-18",
+    "registered_office_address": {
+        "address_line_1": "350 Euston Road",
+        "locality": "London",
+        "postal_code": "NW1 3AX"
+    },
+    "last_full_members_list_date": "2016-06-15",
+    "etag": "763984252c715b68df849aa92e44a75b776d8152",
+    "has_insolvency_history": false,
+    "company_status": "active",
+    "has_charges": true,
+    "previous_company_names": [
+        {
+            "name": "LINPAC CONTAINERS LIMITED",
+            "effective_from": "1998-07-21",
+            "ceased_on": "2004-11-22"
+        },
+        {
+            "ceased_on": "1998-07-21",
+            "name": "LINPAC CONTAINERS INTERNATIONAL LIMITED",
+            "effective_from": "1991-06-11"
+        },
+        {
+            "effective_from": "1982-07-02",
+            "name": "LIN PAC CONTAINERS INTERNATIONAL LIMITED",
+            "ceased_on": "1991-06-11"
+        },
+        {
+            "ceased_on": "1982-07-02",
+            "effective_from": "1959-06-18",
+            "name": "LIN-PAC CORRUGATED CASES LIMITED"
+        }
+    ],
+    "confirmation_statement": {
+        "last_made_up_to": "2022-06-12",
+        "overdue": false,
+        "next_due": "2023-06-26",
+        "next_made_up_to": "2023-06-12"
+    },
+    "links": {
+        "self": "/company/00630681",
+        "filing_history": "/company/00630681/filing-history",
+        "officers": "/company/00630681/officers",
+        "charges": "/company/00630681/charges",
+        "persons_with_significant_control": "/company/00630681/persons-with-significant-control"
+    },
+    "registered_office_is_in_dispute": false,
+    "has_super_secure_pscs": false,
+    "can_file": true
+}
